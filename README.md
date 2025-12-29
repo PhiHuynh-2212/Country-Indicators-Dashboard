@@ -13,9 +13,9 @@ The “Country Indicators Dashboard” project was created with the goal of buil
 
 ## 🧠 Project Objectives
 
-- **Provides an overview of key indicators for countries around the world
+- ** Provides an overview of key indicators for countries around the world
   
-- **Enables comparison of these indicators across countries and regions
+- ** Enables comparison of these indicators across countries and regions
 
 ---
 
@@ -31,16 +31,16 @@ The “Country Indicators Dashboard” project was created with the goal of buil
 ```
 
 ---
-![Dashboard Overview](screenshots/Country%20Indicators%20Dashboard.png)
+![Dashboard Overview](screenshot/Global%20Indicators%20Analyst.png)
 
 ## 📊 Dashboard
 
 
 | Name   | Dashboard                                              |
 |--------|--------------------------------------------------------|
-| Global Indicators Analyst      | ![](Screenshot/Tổng%20Quan/Guideline.png) |
-| Country Indicators Comparison  | ![](Screenshot/Tổng%20Quan/Tổng%20Quan%20Số%20Lượng%20Thí%20Sinh%2010%20Điểm.png) |
-| Region Indicators Comparison   | ![](Screenshot/Khối%20A/A00.png) |
+| Global Indicators Analyst      | ![](screenshot/Global%20Indicators%20Analyst.png) |
+| Country Indicators Comparison  | ![](screenshot/Country%20Indicators%20Comparison.png) |
+| Region Indicators Comparison   | ![](screenshot/Region%20Indicators%20Comparison.png) |
 
 📁 *This folder contains screenshots of the dashboard, covering global overviews and comparisons between countries and regions*
 
