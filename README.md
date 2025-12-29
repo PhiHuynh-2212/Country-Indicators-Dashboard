@@ -38,9 +38,9 @@ The “Country Indicators Dashboard” project was created with the goal of buil
 
 | Name                          | Dashboard |
 |-------------------------------|-----------|
-| Global Indicators Analyst     | ![](Screenshots/global_indicators_analyst.png) |
-| Country Indicators Comparison | ![](Screenshots/country_indicators_comparison.png) |
-| Region Indicators Comparison  | ![](Screenshots/region_indicators_comparison.png) |
+| Global Indicators Analyst     | ![](Screenshot/Global%20Indicators%20Analyst.png) |
+| Country Indicators Comparison | ![](Screenshot/Country%20Indicators%20Comparison.png) |
+| Region Indicators Comparison  | ![](Screenshot/Region%20Indicators%20Comparison.png) |
 
 
 📁 *This folder contains screenshots of the dashboard, covering global overviews and comparisons between countries and regions*
