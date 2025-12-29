@@ -30,8 +30,6 @@ The “Country Indicators Dashboard” project was created with the goal of buil
 ├── dashboard/ # This foder contains file dashboard Power BI
 ```
 
----
-![Dashboard Overview](Screenshot/Global%20Indicators%20Analyst.png)
 
 ## 📊 Dashboard
 
